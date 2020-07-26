@@ -4,3 +4,6 @@
     ~/.zshrc:
       force: true
       path: zsh/zshrc
+    ~/.oh-my-zsh:
+      force: true
+      path: ohmyzsh
